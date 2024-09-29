@@ -1,2 +1,2 @@
-# SCT_SD_1
+# SCT_SD_2
 Created a program that coverts a temperature between celsius and fahrenheat and kelvin scale......
